@@ -1,0 +1,46 @@
+{
+    "sequence": "ATCGATCGATCGTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTA",
+    "sequence_length": 50,
+    "nucleotide_counts": {
+        "A": 13,
+        "C": 12,
+        "G": 12,
+        "T": 13
+    },
+    "transition_counts": {
+        "A->A": 0,
+        "A->C": 0,
+        "A->G": 9,
+        "A->T": 3,
+        "C->A": 0,
+        "C->C": 0,
+        "C->G": 3,
+        "C->T": 9,
+        "G->A": 2,
+        "G->C": 9,
+        "G->G": 0,
+        "G->T": 1,
+        "T->A": 10,
+        "T->C": 3,
+        "T->G": 0,
+        "T->T": 0
+    },
+    "transition_probabilities": {
+        "A->A": 0.0,
+        "A->C": 0.0,
+        "A->G": 0.75,
+        "A->T": 0.25,
+        "C->A": 0.0,
+        "C->C": 0.0,
+        "C->G": 0.25,
+        "C->T": 0.75,
+        "G->A": 0.16666666666666666,
+        "G->C": 0.75,
+        "G->G": 0.0,
+        "G->T": 0.08333333333333333,
+        "T->A": 0.7692307692307693,
+        "T->C": 0.23076923076923078,
+        "T->G": 0.0,
+        "T->T": 0.0
+    }
+}
